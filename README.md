@@ -1,6 +1,6 @@
 # kotaemon
 
-An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and
+An Open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and
 developers in mind.
 
 ![Preview](https://raw.githubusercontent.com/Cinnamon/kotaemon/main/docs/images/preview-graph.png)
